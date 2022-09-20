@@ -25,6 +25,10 @@ html {
   font-size: 18px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
 .jumbotron {
   background-color: #C96868;
   padding: 150px;
@@ -102,6 +106,7 @@ footer p {
 footer .redes i {
   color: white;
   letter-spacing: 15px;
+  font-size: 50px;
 }
 
 footer .redes i:hover {

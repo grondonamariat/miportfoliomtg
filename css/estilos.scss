@@ -34,7 +34,9 @@ html {
         }
     }
 }
-
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
 .nleft {
     background-color: $color1;
     padding: 40px;
@@ -137,6 +139,7 @@ footer {
     .redes i {
         color: white;
         letter-spacing: 15px;
+        font-size: 50px;
     }
 }
 

@@ -25,6 +25,10 @@ ul li {
   font-size: 18px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+}
+
 main {
   background-image: url(../Multimedia/stacked-steps-haikei\ \(1\).svg);
   background-position: center;
@@ -60,6 +64,7 @@ footer p {
 footer .redes i {
   color: white;
   letter-spacing: 15px;
+  font-size: 50px;
 }
 
 footer .redes i:hover {

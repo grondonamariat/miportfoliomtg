@@ -17,6 +17,17 @@ html {
   text-shadow: 1px 1px 5px black;
   margin-left: 30px;
 }
+.navbar ul {
+  padding-left: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.navbar ul li {
+  font-size: 18px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
 
 main {
   background-image: url(../Multimedia/stacked-steps-haikei\ \(3\).svg);
@@ -158,6 +169,7 @@ footer p {
 footer .redes i {
   color: white;
   letter-spacing: 15px;
+  font-size: 50px;
 }
 
 footer .redes i:hover {

@@ -25,6 +25,10 @@ html {
   font-size: 18px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
 h1 {
   padding: 50px;
 }
@@ -50,6 +54,7 @@ footer p {
 footer .redes i {
   color: white;
   letter-spacing: 15px;
+  font-size: 50px;
 }
 
 footer .redes i:hover {

@@ -25,6 +25,10 @@ html {
   font-size: 18px;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
 .nleft {
   background-color: #ffd1ae;
   padding: 40px;
@@ -113,6 +117,7 @@ footer p {
 footer .redes i {
   color: white;
   letter-spacing: 15px;
+  font-size: 50px;
 }
 
 footer .redes i:hover {
